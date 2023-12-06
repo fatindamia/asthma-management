@@ -1,1 +1,1 @@
-web: python your_bot_script.py
+web: python asthma_self_management.py
