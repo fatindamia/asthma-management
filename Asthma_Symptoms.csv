@@ -1,0 +1,26 @@
+﻿Symptom,Advice,Surrounding,Trigger,TriggerManage,Frequency 1,Treatment 1,Frequency 2,Treatment 2,,
+cough,"* If you are experiencing a recurrent or persistent non-productive cough, it's crucial to consult with a healthcare professional for a thorough evaluation.
+
+* If your cough tends to worsen at night, consider sleeping with an extra pillow to elevate your head and ease breathing.",smokers,tobacco smoke,avoid exposure to tobacco smoke and maintain a smoke-free environment to manage your asthma symptoms effectively,Symptoms less than twice a month,Low dose ICS taken whenever SABA taken,Symptoms less than twice a month,Low dose ICS taken whenever SABA taken,,
+wheez,"* Wheezing that occurs with specific triggers may indicate underlying respiratory issues. It is recommended to keep a record of when wheezing occurs and the associated triggers, and share this information with your healthcare provider for personalized advice.
+
+* To manage recurrent wheezing, it is important to identify and avoid known triggers.
+
+*Wheezing, especially during sleep or in response to certain triggers, could be a sign of asthma or other respiratory conditions.","exercise,workout,training,work,sports,physical activity",excessive exercise,manage your physical activity and consult with your healthcare provider to develop an exercise plan suitable for your condition,"Symptoms twice a month, or more but less than 4 - 5 days a week",Low dose maintenance ICS,"Symptoms twice a month, but less than daily",Daily low dose inhaled corticosteroid (ICS),,
+"tight,chest","* Experiencing chest tightness may indicate the need to assess potential triggers in your environment. Avoid exposure to tobacco smoke, strong odors, and other environmental pollutants to help manage this symptom.
+
+* If chest tightness is associated with certain activities or situations, consider pacing yourself and taking breaks as needed. Avoiding strenuous physical exertion in extreme conditions may contribute to a reduction in chest tightness.
+
+* It's important to be mindful of your breathing patterns. Practice deep breathing exercises and relaxation techniques to alleviate chest tightness. Discuss these symptoms with your healthcare provider for guidance on suitable breathing exercises.
+
+* Chest tightness can sometimes be related to stress or anxiety. Incorporating stress management techniques such as mindfulness, meditation, or yoga may help alleviate this symptom.","bugs,warm,humid environment",dust mites,"minimize exposure to dust mites by regularly cleaning and dusting your living space, using allergen-proof bedding, and maintaining proper humidity levels","Symptoms most days, or waking up with asthma one a week or more",Low dose maintenance ICS-LABA,"Symptoms most days, or waking up with asthma one a week or more","Low dose ICS LABA, or medium dose ICS, or very low dose ICS-formoterol maintenance and reliever (MART)",,
+"difficult,breath,short,heavy","* Shortness of breath with specific triggers like exercise, laughing, or crying could be a sign of respiratory issues. It's advisable to avoid exposure to smoke and environmental pollutants.
+
+* If shortness of breath occurs during certain activities, it is essential to pace yourself and take breaks as needed. Avoiding strenuous exercise in extreme conditions and managing emotional stress can contribute to better respiratory health.
+
+* Shortness of breath related to exercise, laughing, or crying may require lifestyle adjustments. Ensuring proper hydration, maintaining a healthy weight, and incorporating stress management techniques may positively impact your breathing patterns.","pets,cat,dog,rabbit,bird,hamster,guinea pigs",pets dander,"minimize exposure to pets, especially in areas where pet dander is present. Consider keeping pets out of specific rooms or using air purifiers to reduce allergens","Daily symptoms, or waking up with asthma once a week or more, and low lung function",Medium or high dose maintenance ICS-LABA,"Symptoms most days, or waking up with asthma once a week or more, and low lung function","Medium dose ICS LABA, or low dose ICS-formoterol maintenance and reliever therapy (MART)",,
+,,flowering plants,pollen,minimize outdoor activities during high pollen levels and consider using air purifiers indoors to reduce exposure,,,,,,
+,,cold,cold weather,stay warm and avoid prolonged exposure to cold environments to manage your asthma symptoms,,,,,,
+,,"scented products,perfume",strong odor,avoid environments with strong odors and ensure proper ventilation,,,,,,
+,,"factory emissions,car exhaust,wildfire smoke,smoky,hazy,dusty",outdoor air pollution,"limit outdoor activities on days with high air pollution, use air purifiers indoors, and carry your rescue inhaler",,,,,,
+,,"cockroaches,mice,spider,ants,flies,mosquitoes ",pests,manage and control pests in your surroundings to minimize asthma symptoms,,,,,,
