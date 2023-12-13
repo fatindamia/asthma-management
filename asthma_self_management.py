@@ -296,8 +296,8 @@ def main():
     # Insert your Telegram bot token here
     bot_token = '6904727304:AAFhHfbDlW-aBolPmix9czIMHqCOvdyHahc'
 
-    # updater = Updater(token=bot_token)
-    updater = Updater(token=bot_token, use_context=True, webhook=False)
+    updater = Updater(token=bot_token)
+    # updater = Updater(token=bot_token, use_context=True, webhook=False)
     dp = updater.dispatcher
 
     # Register handlers
