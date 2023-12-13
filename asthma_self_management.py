@@ -8,7 +8,7 @@ from nltk.stem import PorterStemmer
 
 
 # Replace 'your_excel_file.xlsx' with the actual path to your Excel file
-excel_file_path = 'Asthma_Symptoms.xlsx'
+excel_file_path = 'Asthma_Symptoms.csv'
     
 # Read the Excel file into a pandas DataFrame
 df = pd.read_excel(excel_file_path)
@@ -296,7 +296,8 @@ def main():
     # Insert your Telegram bot token here
     bot_token = '6904727304:AAFhHfbDlW-aBolPmix9czIMHqCOvdyHahc'
 
-    updater = Updater(token=bot_token)
+    # updater = Updater(token=bot_token)
+    updater = Updater(token=bot_token, use_context=True, webhook=False)
     dp = updater.dispatcher
 
     # Register handlers
