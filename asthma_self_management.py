@@ -8,10 +8,10 @@ from nltk.stem import PorterStemmer
 
 
 # Replace 'your_excel_file.xlsx' with the actual path to your Excel file
-excel_file_path = 'Asthma_Symptoms.csv'
+csv_file_path = 'Asthma_Symptoms.csv'
     
 # Read the Excel file into a pandas DataFrame
-df = pd.read_excel(excel_file_path)
+df = pd.read_csv(csv_file_path)
 
 
 
