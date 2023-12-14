@@ -294,7 +294,7 @@ def frequency_callback(update: Update, context: CallbackContext):
 # Integrate with Telegram
 def main():
     # Insert your Telegram bot token here
-    bot_token = '6904727304:AAFhHfbDlW-aBolPmix9czIMHqCOvdyHahc'
+    bot_token = '6349187938:AAGh3RxDSoiIq562K4_PS0khuFvrOLo-wY8'
 
     updater = Updater(token=bot_token)
     # updater = Updater(token=bot_token, use_context=True, webhook=False)
